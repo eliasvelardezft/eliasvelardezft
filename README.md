@@ -1,10 +1,10 @@
 ### Hi there 👋
-# I'm Elías, a 20yo Systems Engineering student and Jr Web Developer
+# I'm Elías, a 20yo Systems Engineering student and Jr Backend Developer
 
-- :computer: My main stack is: Django (DRF), PostgreSQL/SQL Server, ReactJS and TailwindCSS.
-- 🌱 I’m currently specializing my knowledge in Django Rest Framework and ReactJs
-- 👯 I’m looking to collaborate on impactful projects with awesome people
-- ✋ I’m looking to contribute with web development (fullstack)
+- :computer: My main stack is: Django (DRF or graphene), PostgreSQL/SQL Server.
+- 🌱 I’m currently working at an e-commerce company. 
+- 👯 I’m looking to collaborate on impactful projects with awesome people.
+- ✋ Although I'm a backend developer, I have strong javascript foundations and I understand Vue and React code.
 - 📫 How to reach me: https://www.linkedin.com/in/eliasvelardez OR eliasvelardez38@gmail.com
 
 Feel free to reach me out!
