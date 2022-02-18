@@ -1,6 +1,5 @@
 ### Hi there 👋
-# I'm Elías, a 21yo Systems Engineering student and Jr Backend Developer
-
+# I'm Elías, a 21yo Jr Backend Developer and Systems Engineering student 
 - :computer: My main stack is: Django (DRF or graphene), PostgreSQL/SQL Server.
 - 🌱 I’m currently working at an e-commerce company. 
 - 👯 I’m looking to collaborate on impactful projects with awesome people.
