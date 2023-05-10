@@ -12,6 +12,6 @@
   - Django (REST and GQL)
 - Docker
 - Microservices. Architecture. Software Design.
-- Vue/React (only JS/TS, not styling/layouting)
+- Vue/React (JS/TS)
 
 Feel free to reach me out!
