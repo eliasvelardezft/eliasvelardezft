@@ -1,7 +1,7 @@
 ### Hi there 👋
-## I'm Elías, a 22yo Jr software developer and Systems Engineering student 
+## I'm Elías, a 23yo Jr software developer 
 - :computer: I work mainly with Python and JavaScript
-- 🌱 I’m working at an e-commerce company
+- 🌱 I’m working at an e-commerce company leading the development of a payments microservice.
 - 📫 My links: eliasvelardez38@gmail.com or https://www.linkedin.com/in/eliasvelardez
 
 ### Skillset 🍀
