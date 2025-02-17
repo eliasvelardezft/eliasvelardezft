@@ -9,6 +9,7 @@
   - FastAPI
   - Django (REST and GQL)
 - Docker
+- Google Cloud Platform
 - Microservices. Architecture. Software Design.
 - Vue/React (JavaScript/TypeScript)
 
